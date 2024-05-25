@@ -11,3 +11,10 @@ canvas {
     font-size: 16px; /* Increase font size */
     padding: 8px; /* Increase padding */
 }
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Mono', monospace;
+    color: var(--dblue);
+}
