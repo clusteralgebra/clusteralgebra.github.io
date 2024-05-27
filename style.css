@@ -13,10 +13,7 @@ canvas {
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Roboto Mono', monospace;
-    color: var(--dblue);
+    font-family: 'SFMono-Regular', monospace;
 }
 
 img {
@@ -24,6 +21,6 @@ img {
 }
 
 .navbar-nav > li{
-    padding-left:10px;
     padding-right:10px;
+    font-family: 'SFMono-Regular', monospace;
   }
