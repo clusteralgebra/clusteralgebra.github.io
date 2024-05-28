@@ -16,10 +16,6 @@ body {
     font-family: 'SFMono-Regular', monospace;
 }
 
-img {
-    border-radius: 50%
-}
-
 .navbar-nav > li{
     padding-right:10px;
     font-family: 'SFMono-Regular', monospace;
