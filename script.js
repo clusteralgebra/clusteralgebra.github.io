@@ -1,3 +1,5 @@
+// Ignore this
+
 const el=document.getElementById('myCanvas');
 const ctx = el.getContext('2d');
     
